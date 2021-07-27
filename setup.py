@@ -1,8 +1,6 @@
 from __future__ import absolute_import, division, print_function
 
 import os
-import sys
-import platform
 from setuptools import setup, find_packages
 
 _this = os.path.abspath(os.path.dirname(__file__))
